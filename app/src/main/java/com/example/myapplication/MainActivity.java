@@ -20,6 +20,6 @@ public class MainActivity extends AppCompatActivity {
         String str2="";
         EditText editText2 =(EditText)findViewById(R.id.a1);
         str2=editText1.getText().toString();
-        String str3="";
+        String str3="";String str4="";
     }
 }
